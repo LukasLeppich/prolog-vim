@@ -16,6 +16,10 @@ The plugin is splitted into three parts:
 
 
 ## Instalation
+### Requirements:
+* [SWI-Prolog](http://www.swi-prolog.org/) (Tested with Version 6.6.6)
+* A VIM-Version with python3 support. 
+
 Copy the directory to `~.vim/bundle/` and add the following line to your `~.vimrc`:
 ```
 set runtimepath+=~/.vim/bundle/prolog-vim
