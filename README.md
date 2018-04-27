@@ -21,3 +21,7 @@ Copy the directory to `~.vim/bundle/` and add the following line to your `~.vimr
 set runtimepath+=~/.vim/bundle/prolog-vim
 ```
 You can also use a plugin manager like [Vundle](https://github.com/VundleVim/Vundle.vim) to install the plugin.
+
+```
+Plugin LukasLeppich/prolog-vim
+```
