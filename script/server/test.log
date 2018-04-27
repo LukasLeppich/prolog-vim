@@ -1,0 +1,55 @@
+debug 18:46:05: No pl extension: lsp_storage_test.pl
+debug 18:46:05: No pl extension: .
+debug 18:46:05: No pl extension: lsp_mslsp_communication.pl
+debug 18:46:05: No pl extension: lsp_tests.pl
+debug 18:46:05: No pl extension: test.log
+debug 18:46:05: No pl extension: lsp_storage.pl
+debug 18:46:05: No pl extension: lsp_request_handler.pl
+debug 18:46:05: No pl extension: lsp_json_utils_test.pl
+debug 18:46:05: No pl extension: lsp_json_utils.pl
+debug 18:46:05: No pl extension: lsp_logging.pl
+debug 18:46:05: No pl extension: lsp_doc.pl
+debug 18:46:05: No pl extension: lsp_language_server.pl
+debug 18:46:05: No pl extension: lsp_server_protocol.pl
+debug 18:46:05: No pl extension: ..
+debug 18:46:05: No pl extension: lsp_autocomplete.pl
+debug 18:46:05: No pl extension: lsp_tokens.pl
+debug 18:46:05: Response is bound, send to client: json([id=1,result=json([capabilities=json([textDocumentSync=1,completionProvider=json([resolveProvider= @true,triggerCharacters=[]])])])])
+debug 18:46:05: Wait for next request
+debug 18:46:05: wait for input ...
+debug 18:46:05: wait for input ...
+debug 18:46:05: Process request: 2 textDocument/didOpen
+debug 18:46:05: no more tokens
+debug 18:46:05: Response is not bound
+debug 18:46:05: Wait for next request
+debug 18:46:05: wait for input ...
+debug 18:46:05: wait for input ...
+debug 18:46:05: Process request: 3 textDocument/didOpen
+debug 18:46:05: no more tokens
+debug 18:46:05: Response is not bound
+debug 18:46:05: Wait for next request
+debug 18:46:05: wait for input ...
+debug 18:46:53: wait for input ...
+debug 18:46:53: Process request: 4 textDocument/didChange
+debug 18:46:53: no more tokens
+debug 18:46:53: Response is not bound
+debug 18:46:53: Wait for next request
+debug 18:46:53: wait for input ...
+debug 18:46:54: wait for input ...
+debug 18:46:54: Process request: 5 textDocument/didChange
+debug 18:46:54: no more tokens
+debug 18:46:54: Response is not bound
+debug 18:46:54: Wait for next request
+debug 18:46:54: wait for input ...
+debug 18:46:54: wait for input ...
+debug 18:46:54: Process request: 6 textDocument/didChange
+debug 18:46:54: no more tokens
+debug 18:46:54: Response is not bound
+debug 18:46:54: Wait for next request
+debug 18:46:54: wait for input ...
+debug 18:46:55: wait for input ...
+debug 18:46:55: Process request: 7 shutdown
+debug 18:46:55: Response is bound, send to client: json([id=7,result=json([])])
+debug 18:46:55: Wait for next request
+debug 18:46:55: wait for input ...
+debug 18:46:55: Stop server
